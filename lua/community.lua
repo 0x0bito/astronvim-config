@@ -15,5 +15,7 @@ return {
 
   { import = "astrocommunity.pack.eslint" },
   { import = "astrocommunity.pack.prettier" },
+
+  { import = "astrocommunity.pack.biome" },
   -- import/override with your plugins folder
 }
