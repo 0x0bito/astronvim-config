@@ -17,5 +17,7 @@ return {
   { import = "astrocommunity.pack.prettier" },
 
   { import = "astrocommunity.pack.biome" },
+
+  { import = "astrocommunity.motion.mini-surround" },
   -- import/override with your plugins folder
 }
